@@ -1,15 +1,40 @@
-### Hola Mundooo !! 👋
+# ¡Hola! 👋 Soy Felipe Ballarino
 
-- 👋 Hola Mundo ! Yo soy @Felipeballarino
-- 👀 Estoy interesado en aprender  y vivir el mundo de la tecnologia de una forma diferente.
-- 🌱 Actualmente estoy estudiando programacion y diseño web.
-- 👯 Estoy buscando colaborar en algun proyecto / empresa, para asi poder aplicar mis conocimientos y aprender mas.
-- 💬 Las tecnologias con las que me desenvuelvo son HTML, CSS, SCCS ReactJs, Redux, JavaScript, Angular, Express, SQL, Sequelize, NodeJs.
-- 📫 Estas interesado en contactarme? 
-          Mis redes son:  
-              ⚡Gmail: Felipeballarino97@gmail.com 
-              ⚡Linkedin: felipe-ballarino 
-              ⚡Wpp: 0353-154196213
-- 😄 Pronouns: Me considero un estudiante de programacion joven y con fuertes habilidades sociales. Actualmente estoy trabajando en un proyecto grupal en el ultimo tramo por mi paso por HENRY Bootcamp.
-                Mi proyeccion a futuro es conseguin un trabajo, preferiblemente Front-End, en donde pueda demotrar no solo mis habilidades tecnicas, sino tambien mis habilidades sociales y mis ganas de aprender mucho mas de este hermoso mundo ! 
+Soy un apasionado del desarrollo web y la tecnología con un fuerte deseo de aprender y crecer en la industria. Actualmente, me encuentro enfocado en el estudio y la práctica de la programación y el diseño web.
 
+## Mis habilidades y tecnologías
+
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- React.js
+- Redux
+- Angular
+- Express.js
+- SQL
+- Sequelize
+- Node.js
+
+## Colaboración y proyectos
+
+## Colaboración y proyectos
+
+Tengo una sólida experiencia de dos años trabajando en una agencia de marketing digital, donde he tenido la oportunidad de aplicar mis habilidades técnicas y mejorar mis habilidades humanas en un entorno profesional. Estoy comprometido a seguir aprendiendo y mejorando cada día.
+
+Actualmente, estoy buscando nuevas oportunidades de colaboración en proyectos interesantes o en empresas donde pueda contribuir con mi experiencia y seguir creciendo.
+
+
+## Contacto
+
+Si estás interesado en contactarme, puedes hacerlo a través de las siguientes vías:
+
+- 📧 Email: felipeballarino97@gmail.com
+- 💼 LinkedIn: [felipe-ballarino](https://www.linkedin.com/in/felipe-ballarino)
+- 📱 WhatsApp: +54 353-154196213
+
+## Objetivos
+
+Mi objetivo es encontrar una oportunidad laboral, preferiblemente en el área de Front-End, donde pueda no solo demostrar mis habilidades técnicas, sino también mis habilidades sociales y mi pasión por seguir aprendiendo en este emocionante mundo de la tecnología.
+
+¡Espero que encuentres interesante mi perfil y estaré encantado de conectarme contigo!
